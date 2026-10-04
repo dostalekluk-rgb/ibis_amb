@@ -1,0 +1,4255 @@
+{
+  "127": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "224": {
+    "pred_additions": {
+      "09215": {
+        "code": "09215",
+        "name": "ODBĚR KRVE ZE ŽÍLY U DOSPĚLÉHO NEBO DÍTĚTE NAD 10 LET",
+        "verbatim_quote": "KS A Rh pozit",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "862": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasan Alfa, aplikován 2. biostimulační laser bez komplikací, lok. Hemagel",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "723": {
+    "pred_additions": {
+      "63115": {
+        "code": "63115",
+        "name": "EXTERNÍ KARDIOTOKOGRAFICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "CTG: fyziol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1026": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": ": Ovestin na 10 dnů poté kolposkopie pahýlu poševního",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13716": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "2894": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": ", pro výsledky kultivací z pochvy a   moči si zavolá v pátek, pro výsledky CHLUM příští týden",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "532": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "ODBĚR BIOLOGICKÉHO MATERIÁLU JINÉHO NEŽ KREV NA KVANTITATIVNÍ BAKTERIOLOGICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "odebrána kultivace.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "20970": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "766": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 13.06.2026, Čas: 22:52:00 (Víkend (Sobota), Čas vyšetření 22:52:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 22:52:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 13.06.2026, Čas: 22:52:00 (Víkend (Sobota), Čas vyšetření 22:52:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 22:52:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 13.06.2026, Čas: 22:52:00 (Víkend (Sobota), Čas vyšetření 22:52:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 22:52:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:  děloha dráždivá, břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, cylindrický, ZB štěrbina, t.č. nekrvácí ani nešpiní  vag.: 2 cm hrdlo uzavřené, vp zach., vedoucí bod balotuje nad vchodem pánevním, nekrvácí.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: v dutině děložní 1 viabilní plod s AS, odpovídající gest. stáří, EFW 352g (AC 157mm, HC177mm, FL 32mm, BPD 48mm), placena   na ZS bez zn. odlučování či hematomu, VP euhydramnion. Cervikometrie FD 33mm T, bez progrese, stress test negat.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "153": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření: břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění zevně: zevní rodidla bez patologie spec: pochva klidná, bez fluoru, čípek hladký, cylindrický/ konický, ZB štěrbina, nekrvácí",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v vzpřímená, nezvětšená, jizva po resekci niche hyperechogenní, zda se bpn, bez dehiscence, sliznice nízká, ovaria bilat. drobná, VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1025": {
+    "pred_additions": {
+      "63894": {
+        "code": "63894",
+        "name": "Zdravotní výkony",
+        "verbatim_quote": "dnes Bodován CHECK IN, zápis v těhotenské poradně  As.Koleška",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16163": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "980": {
+    "pred_additions": {
+      "63894": {
+        "code": "63894",
+        "name": "Zdravotní výkony",
+        "verbatim_quote": "dnes bodován CHECK IN, zápis těhot.poradna Prof.Pařízek",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "125": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag.: děloha v AVF, hrdlo homogenní, v dutině děložní dilatace nehomogenním obsahem do 19mm, s bohatou perfuzí   ze zadbní stěny, rezidua nelze vyloučit, okolí děložní klidné, ovarium l. dx. bpn, volná tekutina není.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "15935": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Biopsie z čípku děložního",
+        "verbatim_quote": "p. punch biopsii s histol",
+        "reason": "V textu popsána dnešní biopsie z děložního hrdla / PB (punch biopsie)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16919": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "indikace k UZ: neadekvátní kolposkopie, LGL, HR HPV 16 pozit",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {
+      "42023": {
+        "code": "42023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "257": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "2327": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ CFM 24.03.26: děloha v AVF velikosti 91x38x43mm, hrdlo děložní homogenní, dutina děložní s nízkou sliznicí,   fluido/hematometrou do 6mm, v oblasti isthmu děložní v",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13582": {
+    "pred_additions": {
+      "09233": {
+        "code": "09233",
+        "name": "KOOPERACE KLINICKÉHO VYŠETŘENÍ S BIOPSIÍ",
+        "verbatim_quote": "spec. ani vag. - nevyšetřena    Zá: Vulvární dermatóza     Dopor",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63063": {
+        "code": "63063",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63511": {
+        "code": "63511",
+        "name": "BIOPSIE Z ČÍPKU DĚLOŽNÍHO",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "452": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, v dutině gestační váček, zatím bez emd. struktur, ovaria bilat. normální velikosti a struktury, VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "11787": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "309": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "9288": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "264": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma roztok, aplikován 7. biostimulační laser bez komplikací., Hemagel lok",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zamena_vykonu"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "9847": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "4273": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "odeslány odběry KO+CRP  odeslána kultivace moč, moč CH+S    Diagnostická rozvaha a závěr:  subfebrilie, st",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "277": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ: děloha v AVF velikosti 89x47x55mm, hrdlo děložní s ovulózou, endometrium triple line 6mm, v dutině děložní v",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "712": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 18.05.2026, Čas: 18:32:00 (Čas vyšetření 18:32:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 18:32:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 18.05.2026, Čas: 18:32:00 (Čas vyšetření 18:32:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 18:32:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 18.05.2026, Čas: 18:32:00 (Čas vyšetření 18:32:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 18:32:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ: dAVF, hrdlo homogenní, E nehomogenní 8mm, ovarium vpravo o vel",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "284": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma, 2. biostimulační laser lok. , Hemagel na poranění.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "372": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: aplikován 3. biostimulační laser bez komplikací, Hemagel lok.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "24": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 23.02.2026, Čas: 13:38:00 (Čas vyšetření 13:38:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 13:38:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 23.02.2026, Čas: 13:38:00 (Čas vyšetření 13:38:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 13:38:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 23.02.2026, Čas: 13:38:00 (Čas vyšetření 13:38:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 13:38:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "3211": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "toileta sutury a širšího okolí Debriecasan Alfa, drén Cutimed Sorbact Ribbon EX, výplach Actimaris Sensitiv, debridement houbičkou, znovu výplach Actimaris Sensitive,zaveden Promogran 28cm2 aplikován 2.biostimulační laser bez komplikací, okolí ošetřeno Cavilon sprej, kryto sterilním Mepilex Border Flex 13x16cm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16407": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ a PET/CT, TFI 9 m, I",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16159": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "431": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "256": {
+    "pred_additions": {
+      "63115": {
+        "code": "63115",
+        "name": "EXTERNÍ KARDIOTOKOGRAFICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "CTG fyz. reaktivní záznam",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ CFM 27/7: PPHL, levé, AS+, VP norma, placenta v LH, nezasahuje do DDS, EFW: 2632g, 23.pct., flow v normě  UZ: 1 vitální plod, AS+, PP+, PPHL, levé, euhydramnion, placenta v LH t.č. bez známek odlučování či hematomu,   průtoky orientačně v normě",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "111": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění, v levém třísle zvětšené lymfatické uzliny  zevně: rozsáhlý makulózní exantém vulvy a vnitřní strany stehen, malé stydké pysky oteklé, lehce zarudlé, bez   ložiskového nálezu  spec: pochva klidná, nažloutlý výtok, čípek bez zjevné makroskopické léze, ZB důlek, nekrvácí",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění, v levém třísle zvětšené lymfatické uzliny  zevně: rozsáhlý makulózní exantém vulvy a vnitřní strany stehen, malé stydké pysky oteklé, lehce zarudlé, bez   ložiskového nálezu  spec: pochva klidná, nažloutlý výtok, čípek bez zjevné makroskopické léze, ZB důlek, nekrvácí",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ: děloha AVF, endometrium homogenní, ostře ohraničené, 8mm, ovaria bilat",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1938": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": ": ledviny bilat",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "2932": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Obj: kultivace lochia 23",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      },
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasan Alfa, aplikován 1. biostimulační laser bez komplikací , dezinfekce Betadine, defekt kryt Curapo 7x5cm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1366": {
+    "pred_additions": {
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 05.02.2026, Čas: 18:50:00 (Čas vyšetření 18:50:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 18:50:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "15934": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "248": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 29.01.2026, Čas: 19:45:00 (Čas vyšetření 19:45:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:45:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 29.01.2026, Čas: 19:45:00 (Čas vyšetření 19:45:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:45:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "3824": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB štěrbina, nekrvácí, bez zjevné exofyticky rostoucí formace či   ulcerace, nekomplikovaná extrakce IUD tahem za silon peanem  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "63557": {
+        "code": "63557",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1653": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz:   ------------  atraumaticky odstraněno krytí, toileta Debriecasanem, v místě styku DSL a Pfannesntielova řezu dehiscence cca   1,5cm prům., s uzavírající tendencí, mírná sang. sekrece, nasondováno do hloubky 3 cm a laterálně do obou stran   do vzdálenosti 3 cm,  ostatní části jizvy klidné,  proveden důkladný výplach Actimaris Senzitiv, proveden   debridement houbičkou, znovu výplach,  na setkání obou jizev do dehiscence zaveden Promogran, kryto Mepilex   Border Flex 13x16cm. Cavilon Advanced do okolí sutury i na MARSI.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 25.06.2026, Čas: 08:14:00 (Čas vyšetření 08:14:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 08:14:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "258": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ pravého prsu: bez kolekce tekutiny",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "362": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag: děloha v AVF, endometrium 7 mm TL, ovaria bilat. typické lokalizace, normální velikosti, folikulární struktury, CL   nevidím, malá pánev bez rezistence, VT 0",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "321": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ CFM 24/2: děloha v AVF, hrdlo homogenní, ve fundu gestační váček s patrným žloutkovým váčkem s   naznačeným embryonálním pólem",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "19320": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "nálezu. Serózy hladké, infrakolické i   suprakolické omentum palpačně bpn, pánev i retroperitoneum bez hmatných uzlin",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "628": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Porodnické vyšetření:  zevně: uterus normotonický, F X/3   , CTG fyziol.   vag: zbytek hrdla pro prst, VP zachovalá, nekrvácí, nešpiní, hlavička plodu volně naléhá",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63115": {
+        "code": "63115",
+        "name": "EXTERNÍ KARDIOTOKOGRAFICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "CTG fyziol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "103": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:           břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: abd: Děloha v AVF, IU 1 živý plod, CRL 26mm odp 9+3 AS + prav, 1x embryo, placenta bpn, euhydramnion",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "288": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag.: děloha v AVF, v děloze plodové vejce se žloutkových váčkem a naznačeným embryonálním pólem, odpovídá g.h.   5+, ovaria bilat. bpn, VT 0",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "821": {
+    "pred_additions": {
+      "63555": {
+        "code": "63555",
+        "name": "VYŠETŘENÍ POUZE JEDNÍM SPECIALISTOU",
+        "verbatim_quote": "Na sálku provedeno gynekologické vyšetření",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "281": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma, aplikován 4. biostimulační laser lok., Hemagel lok.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "42": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "18721": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "kolpo",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16671": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "In spec: pochva bn, vlevo při poševním pólu 2 drobné exofyty - polypy, které zcela dnes kontaktně krvácející i když   stacionárního vzhledu - nekomplikovaně ablace obou punch bioptickými kleštěmi  Kolpo",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "380": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ v CFM 26/1: Děloha v AVF , v dutiné děložní vitální plod",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "14229": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "70": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "208": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "15306": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolonoskopie",
+        "verbatim_quote": "Po kolonoskopickém vyšetření   bude konzultován Lékař [ANONYM] - předpokládané origo je rektosigmoideum",
+        "reason": "V textu popsána dnešní kolonoskopie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "971": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 20.07.2026, Čas: 19:25:00 (Čas vyšetření 19:25:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:25:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 20.07.2026, Čas: 19:25:00 (Čas vyšetření 19:25:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:25:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 20.07.2026, Čas: 19:25:00 (Čas vyšetření 19:25:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:25:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "340": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření: zevně: zevn? rodidla bpn in spec.: pochva klidná, fluor sporý, čistá, čípek cylindrický, bez zjevné makroskopické léze",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření: zevně: zevn? rodidla bpn in spec.: pochva klidná, fluor sporý, čistá, čípek cylindrický, bez zjevné makroskopické léze",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "601": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Cytologické vyšetření z pochvy, čípku a hrdla děložního (Cytologie)",
+        "verbatim_quote": "Prevence naposledy 11/25 včetně cytologie NILM  Status praesens:  Subjektivně: cítí se dobře, nekrvácí, močení a stolice bpn",
+        "reason": "V textu popsán dnešní odběr cytologie z čípku / PB vyšetření"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "749": {
+    "pred_additions": {
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 11.08.2026, Čas: 17:39:00 (Čas vyšetření 17:39:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 17:39:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek bez zjevných makroskopických patologií, nekrvácí  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag.: děloha v AVF vel. 85x50mm, endometrium nehomogenní 9 mm, ovaria bilat. bpn, levé ovarium s CL, VT 0, malá   pánev bez rezistence",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1984": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Odebrána kultivace moči,   nastavena terapie viz",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "4220": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasan Alfa, debridement čtvercem, na jizvu položena Inadin. mřížka, sterilní krytí 25x10cm.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09119": {
+        "code": "09119",
+        "name": "ODBĚR KRVE ZE ŽÍLY U DOSPĚLÉHO NEBO DÍTĚTE NAD 10 LET",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "297": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ: děloha v AVF, s vitálním embryem o CRl 9,5mm odpovídá 7+1, ovaria s jistotou nezobrazuji, VT není     Diagnostická rozvaha a závěr:  přichází se žádostí o UUT in g",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "3381": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: atraumaticky Opsite EX, toileta Debriecasan Alfa, svorky EX, na několika místech nedokonalé adaptace okrajů, kůže mírně povolena, znovu obklad Debriecasan Alfa, debridement, lok. Hemagel, Cavilon sprej do okolí, kryto Curapor Transparent, stejně převaz rány po drénu vpravo, ta kryta Curaporem",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "4309": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": "stresu  odebrána kultivace z pochvy    Dif",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "499": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "nevyšetřitelná, odběr CHLUM + kultivace    vidi V2 dr",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "12130": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": ": poučena, odebrána cytologie + HPV - výsl",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "307": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 07.06.2026, Čas: 23:11:00 (Víkend (Neděle), Čas vyšetření 23:11:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Neděle), Čas vyšetření 23:11:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1157": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 05.03.2026, Čas: 14:35:00 (Čas vyšetření 14:35:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 14:35:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 05.03.2026, Čas: 14:35:00 (Čas vyšetření 14:35:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 14:35:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "122": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "4060": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Pivinorm na 3 dny rp",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 25.07.2026, Čas: 23:57:00 (Víkend (Sobota), Čas vyšetření 23:57:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 23:57:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "278": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "412": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ CFM 13/2: děloha v AVF, ve fundu děložním gestační váček s vitálním embryem o CRL 44mm, odpovídá   11+1",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "916": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma roztok, prořezaný steh EX, aplikován 4.biostimulační laser lok. bez komplikací, lok. Hemagel",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "12719": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "455": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ abd.: děloha v AVF, endometrium nízké, ovaria spolehlivě nejde zobrazit, malá náplň močového měchýře, VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "977": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Obj.: afebrilní, KP komp., orientovaná, břicho volné, průhmanté, aperitoneální, DKK bilat. bpn",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ vag. CFM 12.3.26: děloha v AVF vel",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "8688": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": "týdne  odebrána cytologie    dop",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "560": {
+    "pred_additions": {
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 11.08.2026, Čas: 17:24:00 (Čas vyšetření 17:24:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 17:24:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "109": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, těh. zvětšená, IU spíše už isthmicky lokalizované 1x embryo setřelých struktur bez akce srdeční o vel.   3.1mm odp. g.h. 6+0 , adnexa bpn, VT 0",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "188": {
+    "pred_additions": {
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Z: adenomyosis uteri gr.m.III symptomat. (bulky, dysmeno)    dop.: ad TLH cum SE bilat. Poučena.  ARO kons., předoper. vyš. (interna).",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "527": {
+    "pred_additions": {
+      "63115": {
+        "code": "63115",
+        "name": "EXTERNÍ KARDIOTOKOGRAFICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "Dopton/CTG fyziol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "9435": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "402": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "14234": {
+    "pred_additions": {},
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "55": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "43": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "4224": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "2026   kultivace moči negativní  kultivace z rány masivně Staphylococcus aureus civlivý na Oxacilin  kultivace lochia Enterococcus faecalis ojediněle, Staphylococcus aureus ojediněle       CRP: 62",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "15307": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "5": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasan Alfa, lok. Hemagel, bez krytí.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "11783": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": "- doporučuji dále odebírat onk",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "357": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gyn. vyšetření: zevně: norm. / menší habitus, břicho měkké, nebol. Zevní rod. bpn.  spec.: pochva čistá, hrdlo kon., ZB štěrb., nekrvácí.  vag.: hrdlo tuhé uzavř., děloha avf, myomat. zvětš. do gr.m.IV myomem v PH, tuhá, volná, nebol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gyn. vyšetření: zevně: norm. / menší habitus, břicho měkké, nebol. Zevní rod. bpn.  spec.: pochva čistá, hrdlo kon., ZB štěrb., nekrvácí.  vag.: hrdlo tuhé uzavř., děloha avf, myomat. zvětš. do gr.m.IV myomem v PH, tuhá, volná, nebol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ vag.s.: děloha zatůlačena dors. a doleva se sym. dutinou a středním E",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "3238": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "návštěva VSA , kultivace moči 8",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "346": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:           břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:           břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha AVF, hrdlo homogenní, endometrium TL, ze ZS myom 60x55 mm, utalč. dutinu děložní, bez akustických stínů,   smíšená echogenita, ovaria bilat. bpn, okolí bpn, VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09532": {
+        "code": "09532",
+        "name": "VÝKON PROHLÍDKY DISPENZARIZOVANÉ OSOBY",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "399": {
+    "pred_additions": {
+      "09564": {
+        "code": "09564",
+        "name": "PÉČE SPOJENÁ S PŘEVZETÍM PACIENTA OD ZDRAVOTNICKÉ ZÁCHRANNÉ SLUŽBY",
+        "verbatim_quote": "pacientka přivezena RZP pro bolesti v podbřišku a krvácení",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, čípek hladký, cylindrický, ZB štěrbina, nekrvácí, bez přítomen fyziologický fluor  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "223": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ abd:  poloha labilní, euhydramnion, EFW 580g, placenta na ZS, bez známek odlučování a hematomu, AS 145/min",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "661": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasan Alfa, aplikován 3. biostimulační laser bez komplikací, lok Hemagel lok.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1102": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "ODBĚR BIOLOGICKÉHO MATERIÁLU JINÉHO NEŽ KREV NA KVANTITATIVNÍ BAKTERIOLOGICKÉ VYŠETŘENÍ",
+        "verbatim_quote": ": pochva klidná, fluor sporý, čistá, čípek cylindrický, bez zjevné makroskopické léze, provedena odběr KTC,   CHLUM  palp",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09119": {
+        "code": "09119",
+        "name": "ODBĚR KRVE ZE ŽÍLY U DOSPĚLÉHO NEBO DÍTĚTE NAD 10 LET",
+        "verbatim_quote": "odeslána moč ch+s+ktc opak. dnes, KO+CRP+ICIS  ------------------------------------------------------------------------  Diagnostická rozvaha a závěr:   elevace markerů zánětu  doleres hypogastricii nejasné etio  t",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09123": {
+        "code": "09123",
+        "name": "ANALÝZA MOČI CHEMICKY",
+        "verbatim_quote": "Moč chemicky: pH: 5,5, Hustota: 1,012, Bílkovina orient.: neg, Glykosurie: neg, Ketolátky: neg, Bilirubin: neg, Urobilinogen: neg,   Erytrocyty v moči: neg, Leuko: neg, Nitrity: neg, Moč - sediment: ERY: 0,0, LEUKO: 0,0, Bakterie: negativ",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         zevně: zevn? rodidla bpn  in spec.: pochva klidná, fluor sporý, čistá, čípek cylindrický, bez zjevné makroskopické léze, provedena odběr KTC,   CHLUM  palp.: děloha v AVF, norm. vel., volná, taxe mírně bolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "15338": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "1524": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "obj: jizva zhojena, v oblasti pravého polu jemné zarudnutí a povrchový defekt, bez sekrece, podkoží v tomto místě   volné, bez rezistence, aplikována betadine  prsa klidná, bez zarudnutí a otoku, bpn, afebrilní, KP komp. DKK bpn.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "8": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasan Alfa, lok.Inadine mřížka v celé délce sutury, Cavilon spray do okolí sterilně kryto Curapor 25x 10cm.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Obj: sutura kryta Curaporem, po atraumatickém odstranění drobné maladaptace kůže, okolí klidné, bez zarudnutí, palpačně citlivý pohmat nad sponou centrálně, na hrmě furunkl nevyzrálý.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "368": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "999": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, vel. 70x40mm, ve fundu sliznice do 13mm, jinak do 3mm v dutině děložní, na ZS TM myom 30x22mm,   nesuspektního vzhledu, hysterotomie bpn.,m ovaria bilat. bpn., VT není.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "8290": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: dAVF, hrdlo homogenní, E nízké do 4mm, ovarium vlevo drobnější přitaženo k děl. hraně, ovarium vpravo bpn, VT není,   patrné ložisko DE rectosigmoidea cca 26mm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09215": {
+        "code": "09215",
+        "name": "ANALÝZA MOČI CHEMICKY",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13283": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "KOLPOSKOPIE",
+        "verbatim_quote": "- pochva bpn,          kolpo - hrdlo s ATZ 2, kde mezi č",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zamena_vykonu"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "6158": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "1887": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 15.09.2026, Čas: 20:38:00 (Čas vyšetření 20:38:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 20:38:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 15.09.2026, Čas: 20:38:00 (Čas vyšetření 20:38:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 20:38:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "574": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: atraumaticky sejmuto krytí, toileta Debriecasanem, V EX, dutina 3x5cm, čistá spodina, výplach Actimaris   forte, poté debridement houbičkou, znovu výplach Actimaris Forte, vysušeno sterilním čtvercem, na spodinu   zaveden Vlivamel alginát v délce 10x 2cm, do okolí v tenké vrstvě Silvertan pasta,kryto Telfa,na to sterilní Kliniderm   10x10cm, 2x Curapor 2x 15x10cm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "17041": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "534": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16406": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "531": {
+    "pred_additions": {
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 25.06.2026, Čas: 19:28:00 (Čas vyšetření 19:28:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:28:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 25.06.2026, Čas: 19:28:00 (Čas vyšetření 19:28:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:28:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Porodnické vyšetření:  zevně: uterus normotonický, F P/+3  vag: nevyš.  in spec: hrdlo sakrálně uložené, formované, pochva bez známek tekutiny, minimální průhledný hlen v zadní poševní klenbě",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag: cervikometrie - funkční délka hrdla 41mm, vnitřní branka tvaru T, bez progrese při stresu  UZ abd: PPHL, postavení levé, AS pravidelná 146/min, VP norma (DVP 6,2cm), EFW orient. 1360g (odpovídá gest. stáří),   placenta na přední stěně, v přehledném úseku t.č. bpn, PI v AU v normě, symfýza s rozestupem 6mm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "183": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "ODBĚR BIOLOGICKÉHO MATERIÁLU JINÉHO NEŽ KREV NA KVANTITATIVNÍ BAKTERIOLOGICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "stěr lochia, moc kultivace",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09119": {
+        "code": "09119",
+        "name": "ODBĚR KRVE ZE ŽÍLY U DOSPĚLÉHO NEBO DÍTĚTE NAD 10 LET",
+        "verbatim_quote": "KO, CRP",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 22.08.2026, Čas: 18:14:00 (Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09563": {
+        "code": "09563",
+        "name": "VÝKON LÉKAŘSKÉ POHOTOVOSTNÍ SLUŽBY",
+        "verbatim_quote": "Datum: 22.08.2026, Čas: 18:14:00 (Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 22.08.2026, Čas: 18:14:00 (Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "verbatim_quote": "Datum: 22.08.2026, Čas: 18:14:00 (Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 18:14:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09585": {
+        "code": "09585",
+        "name": "Péče rehabilitačního lékaře",
+        "verbatim_quote": "Při zhoršení obtíží kontrola kdykoliv.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie, sutura se hojí per primam, nepovleklá   Tapottement negat. bilat.   spec: pochva klidná, bez fluoru, čípek hladký,  ZB štěrbina, lochia odchází přim.   palp: děloha v AVF, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13094": {
+    "pred_additions": {
+      "63531": {
+        "code": "63531",
+        "name": "Biopsie z čípku děložního",
+        "verbatim_quote": "- pochva bpn, kolpo - aTZ II, SCJ přehledná, SPI BE s P u č 12 - 1, provedena PB",
+        "reason": "V textu popsána dnešní biopsie z děložního hrdla / PB (punch biopsie)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "358": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "424": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Na bolest běžně dostupná analgetika",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: poševní pahýl intaktní, MM rozvinut symetricky, uretery bilat. intaktní, v malé pánvi VT hladinka 55x50mm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1580": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 14.09.2026, Čas: 17:56:00 (Čas vyšetření 17:56:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 17:56:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1064": {
+    "pred_additions": {
+      "63894": {
+        "code": "63894",
+        "name": "Zdravotní výkony",
+        "verbatim_quote": "Dnes bodován check-in, zápis v poradně pro těhotné.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "6099": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "In spec.: pochva klidná, prostorná, čípek cylindrický, bez makroskopické patologie, z čípku tmavá krev VS charakteru menstruační, vlákna IUD nevidím Vag.: děloha v RVF, volně pohyblivá, pohyby hrdlem nebolestivé, Su vazy bez hmatné rezistence, CD nebolí, ovaria nehmatám",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "In spec.: pochva klidná, prostorná, čípek cylindrický, bez makroskopické patologie, z čípku tmavá krev VS charakteru menstruační, vlákna IUD nevidím Vag.: děloha v RVF, volně pohyblivá, pohyby hrdlem nebolestivé, Su vazy bez hmatné rezistence, CD nebolí, ovaria nehmatám",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ vag. CFM 18.02.2026: děloha v ostré RVF, hrdlo děložní homogenní, IUS in situ, bez dislokace, vzdálenost od fundu 2mm, endometrium homogenní 5.4mm, ovaria bilat",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "11580": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "7082": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Celkové vyšetření: Pacientka při plném vědomí, orientovaná, spolupracuje, emočně stabilní, bez cyanosy, ikteru, eupnoická, přiměřené hydratace a výživy, samostatně pohyblivá. Hlava nebolestivá, zornice izokorické, bez zarudnutí, jazyk plazí ve střední čáře, nepovleklý, sliznice růžové, náplň krčních cév přiměřená, uzliny nezvětšeny. Hrudník souměrný, dýchá pravidelně, akce srdeční pravidelná. Prsy klidné. Břicho měkké, nebolestivé, bez známek peritonálního dráždění. Tapottement bilat.negat. Končetiny bez otoků, bez známek TEN či jiných poruch prokrvení, hybnost normální. Pacientka nevykazuje příznaky COVID-19. Gynekologické vyšetření: břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ: ..viz příloha..na levém ovariu kulovitá rezistence velikosti 65x54x69mm, smíšené echogenity, s akustickým stínem, doppler.nesusp., susp",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "686": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma, aplikován 4.biostimulační laser,lok. Hemagel",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "580": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "ODBĚR BIOLOGICKÉHO MATERIÁLU JINÉHO NEŽ KREV NA KVANTITATIVNÍ BAKTERIOLOGICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "flegmóna 10x7cm centrálně nad jizvou, drobný otvír s jantarovou sekrecí-nabrána do stříkačky na kultivaci",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "442": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "5615": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": "Odebrána cytologie exo a endocervix",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "14108": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "vulvoskopi: bez atypií, dVIN nelze vyloučit  spec",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "11574": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "12535": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "4058": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 29.07.2026, Čas: 16:10:00 (Čas vyšetření 16:10:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:10:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 29.07.2026, Čas: 16:10:00 (Čas vyšetření 16:10:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:10:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 29.07.2026, Čas: 16:10:00 (Čas vyšetření 16:10:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:10:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "19416": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "365": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "312": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "607": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma roztok, prořezané stehy EX se souhlasem nedělky,  ĺok. aplikován 3. biostimulační laser,   částečný  debridement čtvercem, susp.můstek kožní nad dehiscencí v podkoží, oplach rány Betadine, lokálně aplikován   Nugel, kryto Inadine,fixace Curapor.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "2898": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Přichází pro výsledky KTC moči    Biologický materiál   MOČ SPONTÁNNÍ  Laboratorní číslo     B0472699                                 Dg",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "263": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma roztok, aplikován 9. biostimulační laser bez komplikací., Hemagel lok",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "15983": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "17321": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": ": malá pánev volná, bez patologické formace     Závěr: není známek recidivy onemocnění    Dop",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "144": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "10454": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09532": {
+        "code": "09532",
+        "name": "VÝKON PROHLÍDKY DISPENZARIZOVANÉ OSOBY",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "212": {
+    "pred_additions": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "verbatim_quote": "Datum: 24.05.2026, Čas: 16:07:00 (Víkend (Neděle), Čas vyšetření 16:07:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Neděle), Čas vyšetření 16:07:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: dAVF, hrdlo homogenní, hysterotomie bpn, E nízké, IUS in situ, ovaria bilat bpn, VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření: břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění zevně: zevní rodidla bez patologie spec: pochva klidná, bez fluoru, čípek bez zjevné makroskopické léze, patrné konce IUS, ZB štěrbina, nekrvácí palp: děloha v AVF, taxe nebolestivá",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16157": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "nález na kolposkopii, křehký kont",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "154": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "519": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 09.06.2026, Čas: 23:45:00 (Čas vyšetření 23:45:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:45:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 09.06.2026, Čas: 23:45:00 (Čas vyšetření 23:45:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:45:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "7499": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "410": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "181": {
+    "pred_additions": {
+      "63894": {
+        "code": "63894",
+        "name": "Zdravotní výkony",
+        "verbatim_quote": "dnes bodován CHECK IN, zápis v těhot.poradně Dr.Fučíková",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "589": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "172": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13371": {
+    "pred_additions": {
+      "63531": {
+        "code": "63531",
+        "name": "Biopsie z čípku děložního",
+        "verbatim_quote": "6 okrsek jBE s jP na PP mezi č",
+        "reason": "V textu popsána dnešní biopsie z děložního hrdla / PB (punch biopsie)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "15182": {
+    "pred_additions": {
+      "63531": {
+        "code": "63531",
+        "name": "Biopsie z čípku děložního",
+        "verbatim_quote": "Sledována na nefrologii – intersticiální nefritis – dle pacientky norm",
+        "reason": "V textu popsána dnešní biopsie z děložního hrdla / PB (punch biopsie)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16254": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Závěr: Známý generalizovaný ca horního rekta se suspektní infiltrací poševní klenby vpravo.    Doporučení: Nyní ad onkogyn ambulance č.6 - po vyšetření krvácení, ke zvážení tamponáda?",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "42022": {
+        "code": "42022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Vag.: Děloha napřímená, 61x33x41mm, fixovaná v pánvi. Viditelný velký tumor orientačně velikosti 87x64x65mm,   vyrůstající z horního rekta přední stěny stenosující lumen střeva a vyplnující celý Douglasův prostor tuhými   nádorovými hmotami, kolem rektosigmoidea bulky infiltrované viscerální uzliny. Děloha infitlrována z dorzální strany   nádorem. Prava poševní klenba se suspektní infiltraci stěny.    * po vyšetření krvácení",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "192": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, endometrium homogenní, v děl. dutine zárodeční výček se žloutkovým váčkem nez   embryonálních struktur. odpovídá 5+4, ovaria vilat bpn, Cl vlevo, VT za dělohou srpek",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "928": {
+    "pred_additions": {
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 26.05.2026, Čas: 19:06:00 (Čas vyšetření 19:06:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 19:06:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "187": {
+    "pred_additions": {
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB štěrbina, nekrvácí, ze ZB odstupuje drobný stopkatý polyp o   velikosti do 5mm,, při č. 11 výraznější ovulum Naboth, jinak i bez zjevné exofyticky rostoucí formace či ulcerace  palp: děloha v AVF, myomatozně zvětšená, gr. m. III-IV, tuhá, volná, taxe nebolestivá, parametria volná, adnexa   nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "4196": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Pro výsledek kultivace moči si zavolá v úterý",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "708": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ nyní: PPHL, AS pravidelná, VP norma, placenta orient. bpn.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 20.06.2026, Čas: 19:22:00 (Víkend (Sobota), Čas vyšetření 19:22:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 19:22:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16161": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "- pochva bpn,          kolpo - hrdlo s ATZ 3,kde mezi č",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "948": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Aktivace smluvních služeb za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 18.06.2026, Čas: 23:26:00 (Čas vyšetření 23:26:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:26:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 18.06.2026, Čas: 23:26:00 (Čas vyšetření 23:26:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:26:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {
+      "09547": {
+        "code": "09547",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "19415": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "300": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "3234": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "1571": {
+    "pred_additions": {
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:           břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, sliznice růžová, č. hladký , z hrdla nekrvácí, fluor 0  palp: d AVF, volná, nebol, taxe č. nebol., adnexa, parametria a CD bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: d AVF, v DD plodové vejce se žloutkovým váčkem a embryem o CRL odp. 6+, AS +, prav., ovarium l. dx bpn, s CL,   ovarium l. sin nevizualizuji, hojná peristaltika, VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "238": {
+    "pred_additions": {
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký, bez zjevné makroskopické léze, ZB štěrbina  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "10268": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: poševní pahýl klidný, bez fluoru, poševní sliznice atrofická, nekrvácí, odebrána cytologie   palp: poševní pahýl bez hmatné dehiscence, palp",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "765": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 27.07.2026, Čas: 23:29:00 (Čas vyšetření 23:29:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:29:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 27.07.2026, Čas: 23:29:00 (Čas vyšetření 23:29:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:29:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 27.07.2026, Čas: 23:29:00 (Čas vyšetření 23:29:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 23:29:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "9739": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "zítra výsledek kultivace",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 01.01.2026, Čas: 18:43:00 (Státní svátek (Nový rok / Den obnovy samostatného českého státu), Čas vyšetření 18:43:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Státní svátek (Nový rok / Den obnovy samostatného českého státu), Čas vyšetření 18:43:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 01.01.2026, Čas: 18:43:00 (Státní svátek (Nový rok / Den obnovy samostatného českého státu), Čas vyšetření 18:43:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Státní svátek (Nový rok / Den obnovy samostatného českého státu), Čas vyšetření 18:43:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 01.01.2026, Čas: 18:43:00 (Státní svátek (Nový rok / Den obnovy samostatného českého státu), Čas vyšetření 18:43:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Státní svátek (Nový rok / Den obnovy samostatného českého státu), Čas vyšetření 18:43:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "kolposkopie s 5% kys. octovou - uzká TZ1, bez atypií, vlákna IUS zastřižena u zevní branky   palpačně děloha v AVF, nezvěšená, krajina adnex bpn",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13611": {
+    "pred_additions": {
+      "63531": {
+        "code": "63531",
+        "name": "Biopsie z čípku děložního",
+        "verbatim_quote": "Gynekologické vyš.:   kolpo: vulva a pochva klidná, SCJ nepřehledná, u č 6 ložiskově a mezi 10 a 1 sytě BE s hP a aV  Palp",
+        "reason": "V textu popsána dnešní biopsie z děložního hrdla / PB (punch biopsie)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "381": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "945": {
+    "pred_additions": {
+      "63894": {
+        "code": "63894",
+        "name": "Zdravotní výkony",
+        "verbatim_quote": "dnes bodován CHECK IN, zápis v těhot.poradně DR.Macková",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "6693": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "ODBĚR BIOLOGICKÉHO MATERIÁLU JINÉHO NEŽ KREV NA KVANTITATIVNÍ BAKTERIOLOGICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "při vyšetření odebráno: MOP,  vag. pH 4,7     Diagnostická rozvaha a závěr:  Vulvovaginitis chronica, v.s. bakteriální vaginóza   St",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum vyšetření: 13.04.2026, Čas vyšetření: 08:45:00 (Velikonoční pondělí)",
+        "reason": "Velikonoční pondělí (státní svátek)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum vyšetření: 13.04.2026, Čas vyšetření: 08:45:00 (Velikonoční pondělí)",
+        "reason": "Velikonoční pondělí (státní svátek)"
+      }
+    },
+    "pred_removals": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "445": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "4339": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "léze, ZB štěrbina, nekrvácí  odběr kultivace z pochvy a STD  UZ CFM: mnohačetná myomatoza, vpravo ovarium v opouzdřeném výpotku 65x40mm, dilatace P tuby -   saktosalpinx, vlevo bpn - přiložen originál    Diagnostická rozvaha a závěr:  vpravo ovarium v opouzdřeném výpotku 65x40mm  dilatace P tuby - saktosalpinx  uterus myomatosus  stp",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "664": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 25.01.2026, Čas: 16:51:00 (Víkend (Neděle), Čas vyšetření 16:51:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Neděle), Čas vyšetření 16:51:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 25.01.2026, Čas: 16:51:00 (Víkend (Neděle), Čas vyšetření 16:51:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Neděle), Čas vyšetření 16:51:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "167": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, normální velikosti, cervix homogenní, v dutině děložní gestační váček s vitálním embryem o CRL 7,9   odpovídá g.h. 6+5, ovaria bilat. bpn., VT v MP není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "115": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ CFM 22.09.26: děloha v AVF velikosti 69x28x37mm, volně pohyblivé, hrdlo děložní homogenní, endometrium triple-line   9mm, na zadní stěně hyperechogenní okrsek o velikosti 12x6x8mm, s přívodnou cévou ze zadní stěny, levé ovarium v   typické lokalizaci o velikosti 35x23x34mm s DF o průměru 20mm, mediálně od ovaria hlakostnná unilokulární cysta o   velikosti 37x28x37mm s perfuzí v pouzdru, pravé ovarium v typické lokalizaci o velikosti 42x19x27mm, okolí děložní bpn",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "741": {
+    "pred_additions": {
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gyn. vyšetření: zevně: mírně silnější habitus, břicho měkké, nebol. Zevní rod. bpn.  spec.: pochva čistá, hrdlo cyl., ZB štěrb., nekrvácí. V pochvě patrná vlákna IUD.  vag.: hrdlo tuhé uzavř., děloha rvf, nezdá se výrazně zvětš., v LH nejasný tužší nebol. pohmat. Oblast adnex vpravo   zdá se volný a bpn, CD i parametria v.s. volná.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "378": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "270": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v RVF, zvětšená do m l I, volná, 1x IU GS s embryonálním polém vel 2.5mm odp 5+0 g h zatím bez AS,   adnexa bpn, VT 0",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "12990": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "5551": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "778": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "548": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma, hypergranulace sneseny, debridement čtvercem, proto neaplikován biostimulační laser,   lok. Nugel a na něj Inadin.mřížka, sterilní krytí 1/2 Curapor 7x5cm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "18625": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "Dopplerovsky nesuspektní",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1084": {
+    "pred_additions": {
+      "09123": {
+        "code": "09123",
+        "name": "ANALÝZA MOČI CHEMICKY",
+        "verbatim_quote": "moč analýza - norma",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         zevně: zevn? rodidla bpn  in spec.: pochva klidná, atrofická sliznice, fluor sporý, čistá, pahýl poševní bpn, bez známek krvácení či infektu  palp.: vyšetření neboelstivé, pahýl bpn, Douglas volný, bez hmatné patologické formace",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ CFM 7/4/26: vag: malá pánev zcela volná, bez patologické formace, močový měchýř rozbinut souměrně, poševní   pahýl, ovaria bilat spolehlivě nevizualizujeme, VT není    moč analýza - norma  ------------------------------------------------------------------------  Diagnostická rozvaha a závěr:   příčina obtíží t",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1339": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 20.06.2026, Čas: 01:39:00 (Víkend (Sobota), Čas vyšetření 01:39:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 01:39:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 20.06.2026, Čas: 01:39:00 (Víkend (Sobota), Čas vyšetření 01:39:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 01:39:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 20.06.2026, Čas: 01:39:00 (Víkend (Sobota), Čas vyšetření 01:39:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Sobota), Čas vyšetření 01:39:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "292": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gyn. vyšetření: zevně: norm. habitus, břicho měkké, nebol. Zevní rod. bpn.  spec.: pochva čistá, hrdlo kon., ZB důlek, nekrvácí.  vag.: hrdlo tuhé uzavř., děloha rvf, myomat. zvětš. do gr.m.IV, tuhá, volná, masivní, bol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gyn. vyšetření: zevně: norm. habitus, břicho měkké, nebol. Zevní rod. bpn.  spec.: pochva čistá, hrdlo kon., ZB důlek, nekrvácí.  vag.: hrdlo tuhé uzavř., děloha rvf, myomat. zvětš. do gr.m.IV, tuhá, volná, masivní, bol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ vag.s.: děloha rvf s def",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "2857": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": ", onkol neg/pravid kontroly/odebrána kultivace P a kultivace moči  palp",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "4227": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "2026   kultivace moči negativní  kultivace z rány masivně Staphylococcus aureus civlivý na Oxacilin  kultivace lochia Enterococcus faecalis ojediněle, Staphylococcus aureus ojediněle       CRP: 62",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "64": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ abd.: Děloha s průměrem fundu děložního 65mm, dutina mírně dilatovaná lochiemi do šíře 7mm, bez patrných reziduí,   okolí děložní bpn., Vt není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "196": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag.: dAVF, E nízké - těsně po menzes, ovaria bilat. normální velikosti a stuktury, v typické lokalizaci, v.s. DE   rektisigmoidea 16x8x8mm, jinak okolí děložní bpn., VT není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1565": {
+    "pred_additions": {
+      "09564": {
+        "code": "09564",
+        "name": "PÉČE SPOJENÁ S PŘEVZETÍM PACIENTA OD ZDRAVOTNICKÉ ZÁCHRANNÉ SLUŽBY",
+        "verbatim_quote": "Pacientka přivezena RZS pro odtok VP.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "9579": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "279": {
+    "pred_additions": {
+      "09123": {
+        "code": "09123",
+        "name": "ANALÝZA MOČI CHEMICKY",
+        "verbatim_quote": "analýza moči  - Leu +3, Ery +3, Protein +2",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek bez zjevných makroskopických patologií,  nekrvácí  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ vag.: děloha v AVF, endometrium 7 mm TL, ovaria bilat. typické lokalizace, folikulární struktury, normální velikosti, VT 0",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "3547": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": "odběr   cytologie prostř",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "30": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "7067": {
+    "pred_additions": {
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "13373": {
+    "pred_additions": {
+      "63531": {
+        "code": "63531",
+        "name": "Biopsie z čípku děložního",
+        "verbatim_quote": "- pochva bpn, kolpo - částěčně přehledná SCJ s lehce BE, provedena PB, nekrávíc",
+        "reason": "V textu popsána dnešní biopsie z děložního hrdla / PB (punch biopsie)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "2720": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Kultivace z rány dne 28",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      },
+      "09233": {
+        "code": "09233",
+        "name": "INJEKCE POD KOŽI, DO SVALU NEBO ŽÍLY",
+        "verbatim_quote": "opich Mesocainem 1% lok.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma, výplach podminování Braunol, prořezané stehy EX, opich Mesocainem 1% lok., tupě pinzetou rozrušeny dva kožní můstky, krvácení zánětlivě změněné spodiny stavěno Adrenalin 1 amp. lok. na čtverci, znoviu dezinfekce Braunol, lok. do dehiscence Nugel, zaveden Inadine drén na spodinu, povrchově sutura kryta další Inadine mřížkou, fixace Curapor 7x5cm.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "583": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "odesláno na vyšetření kultivace, dále sutura drží, bez hmatné   rezistence  UZ: podkoží bez kolekce tekutiny, subfasciálně bpn, malá pánev bpn    Doporučení:  pro výraznou induraci nasazujeme ATB a kontrola zde ve čtvrtek i s výsledky kultivace sekrece",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "738": {
+    "pred_additions": {
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ 21.9.2026: děloha v AVF, vel. 60x30mm, endometrium 6mm, TL, ovaria bilat. bpn., normální velikosti i struktury, VT   není.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "174": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: vaginismus, těžko vyšetřitelná, ale bez známek krvácení",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ abd.: v děloze 1 živý plod, placenta bez známek hematomu či odlučování, okolí děložní bpn",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "385": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: atraumaticky sprejem Opsite EX, toileta Debriecasan Alfa, stehy ob jeden EX, okolí Cavilon sprej, kryto Opsite.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "9741": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "vyšetření: vulva bpn, in spec - kolposkopie: uzká TZ 1 typu, normální OE, CE, normální kolposkopický nález,   vlákna IUD nejsou viditelná (zastřiženo HSK)     OC - odebráno 1/26     UZ vag + abd",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "266": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma roztok, aplikován 4. biostimulační laser bez komplikací., Hemagel lok",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "21312": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Vag.: Děloha v AVF, hrdlo děložní homogenní, endometrium nízké, IUD in situ. Ovaria bilat. normální velikosti i struktury.",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ gynekologický nález u pacientky s vrozenou predispozicí ke geneticky podmíněným onemocněním",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "42023": {
+        "code": "42023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1461": {
+    "pred_additions": {
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 16.03.2026, Čas: 21:34:00 (Čas vyšetření 21:34:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 21:34:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "vag: AVF, okolí bpn  spec: pochva klidná, hrdlo hladké, krvácí sílou slabší menzes",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: AVF děloha, dilatace anisochegenním obsahem do 20 mm, okolí bez VT, adnexa klidná",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09215": {
+        "code": "09215",
+        "name": "VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zamena_vykonu"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "211": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "342": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "9077": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB důlek, nekrvácí, bez zjevné exofyticky rostoucí formace či ulcerace  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, normální velikosti, cervix homogenní, endometrium výšky 5mm, triple-line ohraničené, na transverzálním   řezu v.s. subseptum uteri, ovaria normální velikosti a struktruy bilat., za dělohou hladinka VT do 25mm, v.s. periovulačně",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "503": {
+    "pred_additions": {
+      "63021": {
+        "code": "63021",
+        "name": "KOMPLEXNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  in spec: pochva klidná, bez fluoru, čípek hladký, ZB štěrbina, slabě špiní, bez zjevné exofyticky rostoucí formace či   ulcerace  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha v AVF, normální velikosti, cervix homogenní, endometrium výšky ohraničené 4mm, ovaria solidní struktury,   drobná bilat. VT v MP není",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "496": {
+    "pred_additions": {
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 02.01.2026, Čas: 16:28:00 (Čas vyšetření 16:28:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:28:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63115": {
+        "code": "63115",
+        "name": "EXTERNÍ KARDIOTOKOGRAFICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "Dopton/CTG fyziol.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "364": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "415": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, jizva po LPT med",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "966": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "vydán opis propuštěcí pediatrické zprávy z důvodu ztráty na vyžádání pacientky",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "12476": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": ", HPV test  palp",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {
+      "63063": {
+        "code": "63063",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "253": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:        břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "20973": {
+    "pred_additions": {
+      "63063": {
+        "code": "63063",
+        "name": "Kolposkopická expertíza",
+        "verbatim_quote": "Vyšetření vulva bpn, kolposkopie - bělavá, žlutavá plošná léze TZ a identikcé satelitní ložisko v   proximální pochvě vlevo - ulkus 15x18 mm a další idnetikcá drobná ložiska do 5 mm klenby a OE vpravo",
+        "reason": "V textu popsaný kolposkopický zákrok"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "19660": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "96": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         zevně: zevn? rodidla bpn  in spec.: pochva klidná, fluor sporý, čistá, čípek cylindrický, bez zjevné makroskopické léze  palp.: děloha v AVF, norm. vel., volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         zevně: zevn? rodidla bpn  in spec.: pochva klidná, fluor sporý, čistá, čípek cylindrický, bez zjevné makroskopické léze  palp.: děloha v AVF, norm. vel., volná, taxe nebolestivá, parametria volná, adnexa nehmatná, Douglas volný",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ CFM 29",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "11288": {
+    "pred_additions": {
+      "63532": {
+        "code": "63532",
+        "name": "Odběr materiálu z pochvy, čípku a hrdla děložního (Cytologie/MOP)",
+        "verbatim_quote": ": pochva bn, portio cyl hladké, nekrvácí, kolpo TZ, cytologie odebrána  Vag",
+        "reason": "V textu popsán dnešní odběr cytologie / MOP / stěr z čípku"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1652": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "sekrece, nasondováno do hloubky 4 cm a laterálně do obou stran do vzdálenosti 4 cm, v horní   1/3 DSL dehiscence zhojena p",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      },
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz:   ------------  atraumaticky odstraněno krytí, toileta Debriecasanem, v místě styku DSL a Pfannesntielova řezu dehiscence cca 2   cm p, mírná sang. sekrece, nasondováno do hloubky 4 cm a laterálně do obou stran do vzdálenosti 4 cm, v horní   1/3 DSL dehiscence zhojena p.sec.i., ostatní části jizvy klidné,  proveden důkladný výplach Actimaris Senzitiv   hluboké dehiscence a podminování, odběr kultivace z rány, proveden debridement lžičkou, znovu výplach,  na   setkání obou jizev do dehiscence zaveden Exufiber Ag, kryto Kliniderm superabsorbent 10x10cm, fixováno 1x   Curaporem 10x15 a 2x 10x25cm, Cavilon Advanced do okolí sutury i na MARSI.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "16768": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "317": {
+    "pred_additions": {
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "In spec.: pochva klidná, prostorná,  bez známek krvácení, čípek cylindrický, bez makroskopické patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "232": {
+    "pred_additions": {
+      "09119": {
+        "code": "09119",
+        "name": "ODBĚR KRVE ZE ŽÍLY U DOSPĚLÉHO NEBO DÍTĚTE NAD 10 LET",
+        "verbatim_quote": "hCG odebráno dnes ve VŠA",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "268": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma roztok, aplikován 6. biostimulační laser bez komplikací., Hemagel lok",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1900": {
+    "pred_additions": {
+      "09115": {
+        "code": "09115",
+        "name": "Odběr biologického materiálu na kvantitativní vyšetření (Kultivace/HPV)",
+        "verbatim_quote": "Kontrolní kultivace moči cestou PL",
+        "reason": "V textu popsán dnešní odběr na kultivaci / HPV / Chlamydie"
+      }
+    },
+    "pred_removals": {
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1991": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 01.03.2026, Čas: 17:34:00 (Víkend (Neděle), Čas vyšetření 17:34:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Víkend (Neděle), Čas vyšetření 17:34:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "484": {
+    "pred_additions": {
+      "63115": {
+        "code": "63115",
+        "name": "EXTERNÍ KARDIOTOKOGRAFICKÉ VYŠETŘENÍ",
+        "verbatim_quote": "CTG: fyz., reaktvní záznam",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09581": {
+        "code": "09581",
+        "name": "PÉČE AMBULANTNÍHO SPECIALISTY MIMO BĚŽNOU PRACOVNÍ DOBU",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "BONIFIKAČNÍ VÝKON ZA PRÁCI O SVÁTCÍCH, VÍKENDECH A V NOCI",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09545": {
+        "code": "09545",
+        "name": "REGULAČNÍ POPLATEK ZA POHOTOVOSTNÍ SLUŽBU - POPLATEK UHRAZEN",
+        "reason": "zcela_chybi_zminka"
+      },
+      "63023": {
+        "code": "63023",
+        "name": "KONTROLNÍ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "19417": {
+    "pred_additions": {},
+    "pred_removals": {},
+    "celkovy_stav": "BEZ_ZMENY"
+  },
+  "23": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz:   toileta Debriecasanem, lok. 8. biostimulační laser, lok. Hemagel.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "8429": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 17.09.2026, Čas: 16:15:00 (Čas vyšetření 16:15:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:15:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 17.09.2026, Čas: 16:15:00 (Čas vyšetření 16:15:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:15:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 17.09.2026, Čas: 16:15:00 (Čas vyšetření 16:15:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 16:15:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:       břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  Zevně: zevní rodidla bez patologie",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ vag.: děloha myomatózně změněna, napřímená velikosti 103x82x105mm, hrdlo děložníhomogenní,   endometrium sekreční 10mm",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "551": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Debriecasanem, dehiscence hluboká 1,5cm s povleklou členitou spodinou, výplach ředěnou Betadine, debridement, lok. Nugel a na něj Inadin.mřížka do dehiscence, sterilní krytí.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "152": {
+    "pred_additions": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "verbatim_quote": "Pacientka převzala výsledek histologie.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "273": {
+    "pred_additions": {
+      "09543": {
+        "code": "09543",
+        "name": "SIGNÁLNÍ VÝKON KLINICKÉHO VYŠETŘENÍ",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa bilat. bpn",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  palp: děloha v AVF, nezvětšená, tuhá, volná, taxe nebolestivá, parametria volná, adnexa bilat. bpn",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "ULTRASONOGRAFICKÉ VYŠETŘENÍ PÁNVE U GYNEKOLOGICKÝCH ONEMOCNĚNÍ, V PORODNICTVÍ A ŠESTINEDĚLÍ",
+        "verbatim_quote": "UZ: děloha napřímená, endometrium 15mm, ve fundu 1 GS, CRL 3,72mm - odp.6+0, AS +, ovaria bilat. bpn, stopa volné   tekutiny za dělohou",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "390": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 15.01.2026, Čas: 15:57:00 (Čas vyšetření 15:57:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 15:57:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 15.01.2026, Čas: 15:57:00 (Čas vyšetření 15:57:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 15:57:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 15.01.2026, Čas: 15:57:00 (Čas vyšetření 15:57:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 15:57:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "63022": {
+        "code": "63022",
+        "name": "CÍLENÉ VYŠETŘENÍ GYNEKOLOGEM A PORODNÍKEM",
+        "verbatim_quote": "Gynekologické vyšetření:         břicho klidné, měkké, nebolestivé, bez známek peritoneálního dráždění  zevně: zevní rodidla bez patologie  spec: pochva klidná, bez fluoru, čípek hladký bez makrosk.léze, ZB štěrbina, nekrvácí",
+        "reason": "V textu popsán dnes provedený výkon"
+      },
+      "63417": {
+        "code": "63417",
+        "name": "Ultrasonografické vyšetření pánve",
+        "verbatim_quote": "UZ: děloha v AVF, dilatace dutiny děložní polotekutým mater",
+        "reason": "V textu popsáno UZ vyšetření pánve"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "880": {
+    "pred_additions": {
+      "09545": {
+        "code": "09545",
+        "name": "Regulační poplatek za pohotovostní službu - poplatek uhrazen",
+        "verbatim_quote": "Datum: 24.08.2026, Čas: 21:26:00 (Čas vyšetření 21:26:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 21:26:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09580": {
+        "code": "09580",
+        "name": "Bonifikační výkon za práci o svátcích, víkendech a v noci",
+        "verbatim_quote": "Datum: 24.08.2026, Čas: 21:26:00 (Čas vyšetření 21:26:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 21:26:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      },
+      "09581": {
+        "code": "09581",
+        "name": "Péče ambulantního specialisty mimo běžnou pracovní dobu",
+        "verbatim_quote": "Datum: 24.08.2026, Čas: 21:26:00 (Čas vyšetření 21:26:00 (mimo běžnou prac. dobu 07:00-16:00))",
+        "reason": "Čas vyšetření 21:26:00 (mimo běžnou prac. dobu 07:00-16:00)"
+      }
+    },
+    "pred_removals": {},
+    "celkovy_stav": "OPRAVENO"
+  },
+  "1437": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: toileta Rigenoma, stehy EX, aplikován 1. biostimulační laser, lok. Nugel, kryto Cuticerin,(Inadine odmítnut), fixace Curapor 7x5cm",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      },
+      "09523": {
+        "code": "09523",
+        "name": "EDUKAČNÍ POHOVOR LÉKAŘE S NEMOCNÝM ČI RODINOU",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  },
+  "659": {
+    "pred_additions": {
+      "09237": {
+        "code": "09237",
+        "name": "OŠETŘENÍ A PŘEVAZ RÁNY VČETNĚ OŠETŘENÍ KOŽNÍCH A PODKOŽNÍCH AFEKCÍ DO 10 CM^2",
+        "verbatim_quote": "Převaz: aplikován 5. biostimulační laser bez komplikací, lok Hemagel lok.",
+        "reason": "V textu popsán dnes provedený výkon"
+      }
+    },
+    "pred_removals": {
+      "09511": {
+        "code": "09511",
+        "name": "MINIMÁLNÍ KONTAKT LÉKAŘE S PACIENTEM",
+        "reason": "zcela_chybi_zminka"
+      }
+    },
+    "celkovy_stav": "OPRAVENO"
+  }
+}

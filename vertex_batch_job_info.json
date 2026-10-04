@@ -1,0 +1,24 @@
+{
+  "name": "projects/56686644409/locations/europe-central2/batchPredictionJobs/9020050896402251776",
+  "displayName": "ibis_amb5_full_21k_1791129862",
+  "model": "projects/56686644409/locations/europe-central2/models/6198584762517422080",
+  "inputConfig": {
+    "instancesFormat": "jsonl",
+    "gcsSource": {
+      "uris": [
+        "gs://ibis_amb/vertex_batch_21k.jsonl"
+      ]
+    }
+  },
+  "outputConfig": {
+    "predictionsFormat": "jsonl",
+    "gcsDestination": {
+      "outputUriPrefix": "gs://ibis_amb/batch_output_ibis_amb5/"
+    }
+  },
+  "state": "JOB_STATE_PENDING",
+  "createTime": "2026-10-04T16:04:24.219570Z",
+  "updateTime": "2026-10-04T16:04:24.219570Z",
+  "encryptionSpec": {},
+  "modelVersionId": "1"
+}

@@ -1,0 +1,47 @@
+instrukce pro projekt:
+
+Jde nám o projekt typu Weakly Supervised Multi-Label Text Classification s Extractive Rationale / Evidence Grounding
+
+Pracujeme oficiálně pro Všeobecnou fakultní nemocnici, proto si musíme dávat maximálně ochranu identifikačních údajů - zejména rodné číslo, číslo pojištěnce adresu apod.
+
+Cílem projektu je vylepšit vykazování kódů výkonů. Každá zpráva má vykázán žádná, jeden nebo více kódů. Kódy mají svou definici v číselníku ÚZIS, ale v praxi jsou vykazovány neúplně a občas i úplně chybně. 
+
+Mám zprávy z nemocničního informačního systému a k nim kódy, které jim lékaři přiřadili.
+
+Projekt bude mít několik fází:
+1) extrahujeme unikátní kódy - mělo by jich být okolo 60
+2) z úzisu stáhneme definice a názvy kódů - https://szv.mzd.gov.cz/Vykon/Detail/<kód>/
+    -> uložíme jí do tabulky kody.xlsx, kde 
+        - ve sloupci A bude kód
+        - ve sloupci B bude název výkonu
+        - ve sloupcu C bude obsah a rozsah výkonu
+3) natrénujeme vlastní google vertex model - použijeme batch prediction
+    - použijeme API klíč k projektu v Google AI studio - [YOUR_GEMINI_API_KEY]
+    - odešleme anonymizovanou tabulku s kódy, texty zpráv a časem vyšetření - je v souboru ambu_anonymized.xlsx
+    - odešleme tabulku s kódy a výkony
+    - cílem bude překonat problém s tím, že kódy jsou někdy vykázané špatně a chybí  přesné textové úseky
+    - úkoly pro model: Pro každý přiřazený kód projít text a rozhodnout:
+        - Je výkon v textu skutečně popsán?
+            Pokud ANO: Vrať přesnou doslovnou citaci (verbatim span) věty/odstavce, která výkon odůvodňuje.
+            Pokud NE: Označ jako unsupported / false_positive a uveď důvod (např. „pouze plánováno do budoucna“, „anamnestický údaj“, „zcela chybí zmínka“).
+
+***
+příklad JSONu
+JSON
+{
+  "evaluations": [
+    {
+      "code": "09115",
+      "status": TRUE //zde se uloží, jestli kód nebyl vykázán úplně chybou
+      "verbatim_quote": "Provedena probatorní probatorní excize z předního labia.",
+      "confidence": 63%
+    },
+    {
+...
+    }
+  ]
+}
+
+***
+
+4) poslední fází a hlavním cílem projektu bude opětovné hodnocení zpráv a navrhování kódů, které by mohly být doplněny. Zde navrhneme webovou aplikaci pro validátora. Tomu navrhneme doplněný kód, výsek text, na jehož základě jsme toto navrhli a on se rozhodne ano/ne, jestli návrh přijme. Podle toho se bude náš vertex model učit.

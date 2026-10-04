@@ -1,0 +1,6 @@
+{
+  "job_id": "batches/7r2xcjgcjem3acmeqjxhf0e8b3yd9iy4gcba",
+  "model": "models/gemini-3.8-flash",
+  "state": "JobState.JOB_STATE_RUNNING",
+  "create_time": "2026-10-03 12:39:56.772169+00:00"
+}
